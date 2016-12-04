@@ -25,6 +25,7 @@
 	<ul>
 		<li><a href=world/la.jsp>LA(미국)</a></li>
 		<li><a href=world/london.jsp>런던(영국)</a></li>
+		<li><a href=world/sanghai.jsp>상하이(중국)</a></li>
 	</ul>
 
 </body>
